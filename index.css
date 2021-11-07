@@ -1,0 +1,43 @@
+body{
+    background-color:orangered;
+    color:hsl(hue, saturation, lightness);
+    font-size:1.5em;
+    font-family:Georgia,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:normal,italic;
+    font-weight:normal,bold,bolder,lighter;
+    text-align:justify,center,right,left;
+    margin:5px;
+
+    padding:4em;
+}
+main{
+    margin:10px;
+    border:dotted 2px green;
+    padding:5em;
+    border-radius: 4px;
+}
+nav{
+    margin:4px;
+    border:4px solid navy;
+    padding:4px;
+    border-radius:10em;
+    text-align:center;
+    background-color:orangered;
+    border-width:2px;
+    text-shadow:4px 2px 3px navy;
+    font-size:2em;
+}
+#container{
+    color:magenta;
+}
+.divyansh{
+    color:gold;
+}
+#parents{
+    color:skyblue;
+}
+#grandfather{
+    color:springgreen;
+}
+
+
